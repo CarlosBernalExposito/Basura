@@ -24,6 +24,7 @@ public class DomJudge17A {
 	 * Conta el numero de peces que cont� una piramide com la especificada a
 	 * l'enunciat
 	 * 
+	 * 
 	 * @param ample
 	 *            amplaria de la base de la piramide
 	 * @param llarg
